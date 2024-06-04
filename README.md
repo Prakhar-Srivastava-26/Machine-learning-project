@@ -1,1 +1,2 @@
-# Machine-learning-project
+This Calorie Burn Predictor is a machine learning project which is used to predict the calories burnt during the physical exercise.Steps involved in this project are 
+data preprocessing ,exploratory data analysis,model training and evaluation.This project showcases the application of machine learning in health and fitness domain which provides insights into the factor affecting calories burnt during exercise.
